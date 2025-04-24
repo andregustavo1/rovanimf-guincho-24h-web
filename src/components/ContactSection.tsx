@@ -35,8 +35,7 @@ const ContactSection = () => {
       type: "Telefones",
       icon: <Phone size={24} className="text-brand-yellow" />,
       info: [
-        { text: "(11) 98378-6802", link: "tel:+5511983786802" },
-        { text: "(11) 98378-6803", link: "tel:+5511983786803" },
+        { text: "(11) 9837-8682 ", link: "tel:+5511983786802" },
         { text: "(11) 99124-7611", link: "tel:+5511991247611" }
       ]
     },
