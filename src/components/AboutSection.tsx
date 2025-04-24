@@ -89,7 +89,7 @@ const AboutSection = () => {
           >
             <div className="rounded-lg overflow-hidden shadow-xl">
               <video 
-                src="public/img/2.mp4" 
+                src="/img/2.mp4" 
                 autoPlay 
                 loop 
                 muted                 
