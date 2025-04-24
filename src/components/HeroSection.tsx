@@ -19,9 +19,9 @@ const HeroSection = () => {
     >
       {/* Background image with overlay */}
       <div
-        className="absolute inset-0 z-0 bg-black"
+        className="absolute inset-0 z-0 bg-black/50"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1578872315900-8f2cb9be3501?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80')",
+          backgroundImage: "url('/img/1.png')",
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundRepeat: "no-repeat",

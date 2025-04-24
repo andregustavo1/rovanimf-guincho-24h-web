@@ -102,7 +102,7 @@ const CoverageArea = () => {
           >
             <div className="rounded-lg overflow-hidden shadow-xl h-[400px]">
               <img 
-                src="https://images.unsplash.com/photo-1633535489740-c5c21ff35ff6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1074&q=80" 
+                src="/img/3.png" 
                 alt="Mapa de cobertura da Rovanimf Guincho" 
                 className="w-full h-full object-cover"
               />

@@ -88,9 +88,11 @@ const AboutSection = () => {
             }`}
           >
             <div className="rounded-lg overflow-hidden shadow-xl">
-              <img 
-                src="https://images.unsplash.com/photo-1607435500444-a0c3a934a26c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1074&q=80" 
-                alt="Equipe da Rovanimf Guincho" 
+              <video 
+                src="public/img/2.mp4" 
+                autoPlay 
+                loop 
+                muted                 
                 className="w-full h-full object-cover"
               />
             </div>
