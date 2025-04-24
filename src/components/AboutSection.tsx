@@ -1,6 +1,6 @@
 
 import { useEffect, useState, useRef } from "react";
-import { Clock, Shield, Tool, Truck } from "lucide-react";
+import { Clock, Shield, Wrench, Truck } from "lucide-react";
 
 const AboutSection = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -47,7 +47,7 @@ const AboutSection = () => {
       description: "Equipe treinada para lidar com qualquer situação."
     },
     {
-      icon: <Tool className="w-10 h-10 text-brand-yellow" />,
+      icon: <Wrench className="w-10 h-10 text-brand-yellow" />,
       title: "Preço justo e transparente",
       description: "Sem surpresas, você sabe exatamente o valor do serviço."
     }
